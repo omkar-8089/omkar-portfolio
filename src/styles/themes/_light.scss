@@ -1,0 +1,16 @@
+:root[data-theme='light'] {
+  --color-primary: #3b82f6;
+  --color-secondary: #0ea5e9;
+
+  --color-background: #f8fafc;
+  --color-surface: #ffffff;
+  --color-surface-hover: #f1f5f9;
+
+  --color-text: #1e293b;
+  --color-text-muted: #64748b;
+
+  --color-border: #e2e8f0;
+
+  --shadow-sm: 0 2px 10px rgba(15, 23, 42, 0.08);
+  --shadow-lg: 0 20px 40px rgba(15, 23, 42, 0.15);
+}
